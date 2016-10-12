@@ -1,0 +1,6 @@
+[submodule "UIST2016-projects/Rock-Paper-Scissor/IRCamera-GesturePredicted"]
+	path = UIST2016-projects/Rock-Paper-Scissor/IRCamera-GesturePredicted
+	url = https://github.com/Wuteyan/HandGesturePy.git
+[submodule "UIST2016-projects/Rock-Paper-Scissor/Leapmotion-GesturePredicted"]
+	path = UIST2016-projects/Rock-Paper-Scissor/Leapmotion-GesturePredicted
+	url = https://github.com/asmailada/SIC_Leap.git
