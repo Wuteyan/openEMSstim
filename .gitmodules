@@ -4,3 +4,6 @@
 [submodule "UIST2016-projects/Rock-Paper-Scissor/Leapmotion-GesturePredicted"]
 	path = UIST2016-projects/Rock-Paper-Scissor/Leapmotion-GesturePredicted
 	url = https://github.com/asmailada/SIC_Leap.git
+[submodule "UIST2016-projects/Rock-Paper-Scissor/Mac_Python_UI"]
+	path = UIST2016-projects/Rock-Paper-Scissor/Mac_Python_UI
+	url = https://github.com/tommy149347/SIC.git
