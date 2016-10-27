@@ -1,7 +1,7 @@
 # Roshambo
-#A realtime gesture recognization system controls your hands with EMS to be the opponent in Roshambo game.
-#There are two devices to recognize gestures. 
-#One is using Leapmotion to detect gesture, and the other is using DIY ir-camera and SVM gesture detection.
+###A realtime gesture recognization system controls your hands with EMS to be the opponent in Roshambo game.
+###There are two devices to recognize gestures. 
+###One is using Leapmotion to detect gesture, and the other is using DIY ir-camera and SVM gesture detection.
 
 ##description:
 Remember the excitement dueling with friends through the game "Rock Paper Scissors" ? 
